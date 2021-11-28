@@ -1,5 +1,5 @@
 """Difficulty: Intermediate
-Create a new C # project with three classes plus another class to test the logic in your code. The main classes of the program are the following classes:
+Create a new Python project with three classes plus another class to test the logic in your code. The main classes of the program are the following classes:
 
 Person
 Student
