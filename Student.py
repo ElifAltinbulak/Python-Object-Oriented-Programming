@@ -15,7 +15,7 @@ class Semester2(Student):
            "Phy":"BA"}
 def gets(stunum,semester):
     stu=Student()
-    stu.info("190444064")
+    stu.info("no")
     print(stu.get_info())
     if semester=="1":
         stus=Semester1()
