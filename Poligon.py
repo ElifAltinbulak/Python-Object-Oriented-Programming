@@ -19,7 +19,7 @@ class Triangle(Poligon):
         self.c=c
         self.h=h
     def area(self):
-        return (self.h*self.c)
+        return (self.h*self.c)/2
     def perimater(self):
         return (self.a+self.b+self.c)
     def show(self):
